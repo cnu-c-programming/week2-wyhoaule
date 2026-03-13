@@ -15,6 +15,6 @@ int main()
 
     float var4 = 3.141592;
     printf("float : %f\n", var4);
-    printf("exp : %lf\n", var4);
+    printf("exp : %e\n", var4);
     return 0;
 }
